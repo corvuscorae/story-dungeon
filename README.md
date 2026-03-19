@@ -39,14 +39,14 @@ Player State Tracking
 Project Structure
 
 story-dungeon/
-│
-├──conf.lua
-├──descriptionGenerator.lua
-├──entity.lua
-├──main.lua
-├──story_handler.lua
-├──text.lua
-├──wall.lua
+
+──conf.lua
+──descriptionGenerator.lua
+──entity.lua
+──main.lua
+──story_handler.lua
+──text.lua
+──wall.lua
 
 conf.lua
 -confgures function for the Love2D game engine
